@@ -19,4 +19,4 @@ Habit Tracker built with HTML,CSS and Javascript.
 
 ## Live DEMO
 Click here to try:
-https://camlstudiodev.github.io/habit-tracker-
+https://camlstudiodev.github.io/habit-tracker/
